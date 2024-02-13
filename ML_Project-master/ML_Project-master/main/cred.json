@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "home-automation-6d220",
+  "private_key_id": "8df9eac901c39002840ad994e7a66b94db5b106a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6fRksJIyMDHWG\nI9pCIk3KD4t9c/hBKxGnyEwTWOgqdU40djI7E4rHsGwHp7EX8WnE8T566UPjCbma\nj/oxARozvXxjLaHxwt8bJH/EzeUO0J0lTMTYWzfeS/og02Masda6v5lCa8hKk1tv\ncHLOfFCt7KnItJElX7fnwSyMLntIv7FpvD7mWdDTg0lyNIdcYXrpj7j0I/f5MWTW\n5o5Jvr5nXR3NztW9DVUT77wkS+6cEMeu+gx+I+/Br4pFwSPD+52nOcalmRmxGho5\n+3Xp1JDwL7mL8l+bYTwJFZY19Y1C16q4dIB2/nZNl/1BlIyUOrK+AiJBS41oVkk9\n+A8EBsSlAgMBAAECggEADlHnPVTpJFZO+yfrOimfYFhLoix/iaS6Mr08qj4PeQMp\nwcZTTebOp03/kNVQ0fSlsvIoL0P7BIbaPulQKucmXe0hwHPgLzJP83bQBz3pzHah\nOoLOMr1LNifbYx3lF3p3pKUFxB+GpJAmjneyBfNunPLC7tIYVMH1QZ4hwsazv/6Z\n6SQDOifjGu7G/yK+NFEWbaHOiriMBwlZNvVgLXWeXA2bdm03l/cI8y3qASv0t/52\nuIdBwtNJnsLExzbM9i1I/xzRGTPKE6/v7QNtIqzoDEsD8iYblJNVHeU8rxtKxJP4\nUkOk2un/8XxezNIyjBt3UKGUZRfBctDP1GocbWEh2QKBgQDd8KEkXWTCBZ9HjzdW\n1TLUFD7krpAUvpqyrJgOiFlSGKgefqOZDEAubd/zbKz+jsJNaMA4oPshDwVj7Cos\nctZf9c8qYXy4HrDh3oakGyiIjZlRPX1EXBDXZRGqLFouomI40C3xNAoL+1uTzqX8\nBk2kiRziaedGiMJbLGFjfJpEwwKBgQDXG7ECk5/BW7PtpQrLm7/hEuCUeU7uLVAO\nBYHsC+avBn4+pruqy5vNBkjm8KihBbezxLYJzXqLKPLwLx/MZMoKvcwweyC2FYNt\niiXHoMjpIWDw0vEFIoQC/Q+nXYtSQwC+SEepmran4VQaWyzxidsOciN7nECZb/my\n6lHUhAcadwKBgBdfnjjsNQ5R9UJeDN/yOBYpw63lzHrC0Bv9HU56gZ2pxxrfD2+w\n4JmDLNDAIz/z3Pa2D3hnS8thf5nUZ2Si+3zDsHuwJKhnYw2Gl/t0eMJY10q9BRJL\n9+IXXNLlNOIwa9O76Pq8FkrIwA5C9ywhpc+sOQSHTroY8Q8VD3SgzMZtAoGBAKXW\npYtVAM9zwa4vlbkP5MjDYv1U4PNjX9rPiDDRpBHAMchfh0PQIdfZRo81buxlmhEw\nUSARmK587X8a9asA8XuChE/EPZ3jzCXBYgsb/IkvwKsqFcNdruUW8OCZj/Xlzkbl\nNsqdisC3Sb3gGTBGlen3OT/tYShqWdoEKP5so4VVAoGAfwecPWbPKUSbnYqw71XQ\nU8EmcekZswT9CX9d+XCYqR4WT3GF88ZuOXqD9BdrhmOAzozjEq5hPvSbsh/Ou2C7\nyCeVh8GX9zN44YOEBYZX2k7D6utSNTJALZ2AXbrRgFV6C7qIOu8+JBQ8dsNZVSIV\nuCruGsC07TvahrJXpcCmDfY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y5x5g@home-automation-6d220.iam.gserviceaccount.com",
+  "client_id": "108992260479305876726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "ex":"ex",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y5x5g%40home-automation-6d220.iam.gserviceaccount.com"
+}
